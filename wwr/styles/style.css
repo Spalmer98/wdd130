@@ -255,27 +255,54 @@ footer .social img {
     font-size: medium;
 }
 
-.guide {
+.guideI1 {
     background-color: #FFFFFF;
     line-height: 1.5em;
     padding: 35px;
-    grid-column: 6/12;
-    grid-row: 10/11;
+    grid-column: 3/6;
+    grid-row: 10/13;
     box-shadow: 5px 5px 10px #000000;
-    font-size: medium;
+    font-size: small;
+    text-align: right;
+}
+
+.Steve {
+    width: 30%;
+    grid-column: 3/6;
+    grid-row: 10/13;
+    z-index: 1;  
+}
+
+.guideI2 {
+    background-color: #FFFFFF;
+    line-height: 1.5em;
+    padding: 35px;
+    grid-column: 8/11;
+    grid-row: 10/13;
+    box-shadow: 5px 5px 10px #000000;
+    font-size: small;
+    text-align: right;
+}
+
+.Bob {
+    width: 30%;
+    grid-column: 8/11;
+    grid-row: 10/13;
+    z-index: 1;
+    
 }
 
 #backgroundI {
-    height: 800px;
+    height: 850px;
     background-color: #33AACF;
     grid-column: 1/13;
-    grid-row: 1/12;
+    grid-row: 1/14;
 }
 
 .Utah {
     width: 100%;
     grid-column: 7/12;
-    grid-row: 13/21;
+    grid-row: 15/23;
     box-shadow: 5px 5px 10px #000000;
     margin-top: 100px;
 }
@@ -284,24 +311,62 @@ footer .social img {
     background-color: #FFFFFF;
     line-height: 1.5em;
     padding: 35px;
-    grid-column: 2/7;
-    grid-row: 13/21;
+    grid-column: 2/8;
+    grid-row: 16/22;
     box-shadow: 5px 5px 10px #000000;
     margin-top: 100px;
+    font-size: medium;
+}
+
+.guideU1 {
+    background-color: #FFFFFF;
+    line-height: 1em;
+    padding: 35px;
+    grid-column: 3/6;
+    grid-row: 24/26;
+    box-shadow: 5px 5px 10px #000000;
+    font-size: small;
+    text-align: right;
+}
+
+.Bill {
+    width: 30%;
+    grid-column: 3/6;
+    grid-row: 24/26;
+    z-index: 1;  
+}
+
+.guideU2 {
+    background-color: #FFFFFF;
+    line-height: 1.5em;
+    padding: 35px;
+    grid-column: 8/11;
+    grid-row: 24/26;
+    box-shadow: 5px 5px 10px #000000;
+    font-size: small;
+    text-align: right;
+}
+
+.Jake {
+    width: 30%;
+    grid-column: 8/11;
+    grid-row: 24/26;
+    z-index: 1;
+    
 }
 
 #backgroundU {
-    height: 600px;
+    height: 850px;
     background-color: #4785FF;
     grid-column: 1/13;
-    grid-row: 12/22;
+    grid-row: 14/27;
     margin-top: 100px;
 }
 
 .Arizona {
-    width: 100%;
+    width: 115%;
     grid-column: 2/7;
-    grid-row: 25/33;
+    grid-row: 29/34;
     box-shadow: 5px 5px 10px #000000;
     margin-top: 100px;
 }
@@ -310,17 +375,54 @@ footer .social img {
     background-color: #FFFFFF;
     line-height: 1.5em;
     padding: 35px;
-    grid-column: 5/12;
-    grid-row: 25/33;
+    grid-column: 7/12;
+    grid-row: 30/33;
     box-shadow: 5px 5px 10px #000000;
     margin-top: 100px;
+    font-size: medium;
+}
+
+.guideA1 {
+    background-color: #FFFFFF;
+    line-height: 1em;
+    padding: 35px;
+    grid-column: 3/6;
+    grid-row: 36/38;
+    box-shadow: 5px 5px 10px #000000;
+    font-size: small;
+    text-align: right;
+}
+
+.Jeff {
+    width: 30%;
+    grid-column: 3/6;
+    grid-row: 36/38;
+    z-index: 1;  
+}
+
+.guideA2 {
+    background-color: #FFFFFF;
+    line-height: 1.5em;
+    padding: 35px;
+    grid-column: 8/11;
+    grid-row: 36/38;
+    box-shadow: 5px 5px 10px #000000;
+    font-size: small;
+    text-align: right;
+}
+
+.Austin {
+    width: 30%;
+    grid-column: 8/11;
+    grid-row: 36/38;
+    z-index: 1; 
 }
 
 #backgroundA {
-    height: 600px;
+    height: 850px;
     background-color: #33AACF;
     grid-column: 1/13;
-    grid-row: 24/34;
+    grid-row: 27/40;
     margin-top: 100px;
 }
 
