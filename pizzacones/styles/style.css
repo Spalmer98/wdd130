@@ -208,7 +208,7 @@ footer .social img {
     box-shadow: 5px 5px 10px #000000;
 }
 
-.card-img:hover {
+.coupon-card-img:hover, .specials-card-img:hover {
     opacity: .6;
     transform: scale(1.1);
 }
