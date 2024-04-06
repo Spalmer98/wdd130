@@ -354,7 +354,7 @@ footer .social img {
     margin-right: auto;
     margin-left: 40px;
     margin-top: 20px;
-    font-family: Nothing You Could Do, Helvetica, sans-serif;;
+    font-family: Nothing You Could Do, Helvetica, sans-serif;
 }
 
 .menu-grid p {
@@ -392,6 +392,7 @@ footer .social img {
     margin-top: 125px;
     grid-column: 2/8;
     grid-row: 1;
+    font-family: Nothing You Could Do, Helvetica, sans-serif;
 }
 
 /* Chef */
@@ -432,6 +433,10 @@ footer .social img {
     grid-row: 2;
     grid-column: 2/8;
     z-index: 2;
+}
+
+.msg_chef h2 {
+    font-family: Nothing You Could Do, Helvetica, sans-serif;
 }
 
 /* Staff */
@@ -476,6 +481,10 @@ footer .social img {
     z-index: 2;
 }
 
+.msg_staff h2 {
+    font-family: Nothing You Could Do, Helvetica, sans-serif;
+}
+
 /* Insperation */
 #background_insperation {
     width: 100%;
@@ -486,10 +495,25 @@ footer .social img {
     grid-row: 4;
 }
 
+#background_insperation_msg {
+    margin-top: 12px;
+    margin-left: 15px;
+    margin-right: 15px;
+    width: 97.5%;
+    height: 475px;
+    background-color: #FFFFFF;
+    grid-column: 2/8;
+    grid-row: 4;
+}
+
 .msg_insperation {
     margin-top: 50px;
     grid-row: 4;
     grid-column: 2/8;
+}
+
+.msg_insperation h2 {
+    font-family: Nothing You Could Do, Helvetica, sans-serif;
 }
 
 .insperation1 {
