@@ -556,6 +556,16 @@ footer .social img {
     z-index: 1;
 }
 
+
+
+/*************************************
+ * --------- Contact Us Page --------- *
+ *************************************/
+
+ form {
+    margin-top: 100px;
+ }
+
 /*Slideshow CSS*/
 
 * {box-sizing:border-box}
